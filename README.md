@@ -1,2 +1,2 @@
 # MFLMD
-contains MFLMD dataset and our algorithm
+This repo contains MFLMD dataset and our algorithm
